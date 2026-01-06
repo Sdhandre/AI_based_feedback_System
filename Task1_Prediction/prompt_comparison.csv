@@ -1,0 +1,4 @@
+Prompt,Accuracy,JSON Validity
+Prompt 1 – Simple,0.65,1.0
+Prompt 2 – Few-shot,0.6231155778894473,0.995
+Prompt 3 – Rubric,0.577922077922078,0.77

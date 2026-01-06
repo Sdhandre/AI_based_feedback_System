@@ -1,0 +1,6 @@
+backend/node_modules
+user-dashboard/node_modules
+admin-dashboard/node_modules
+backend/.env
+user-dashboard/dist
+admin-dashboard/dist
