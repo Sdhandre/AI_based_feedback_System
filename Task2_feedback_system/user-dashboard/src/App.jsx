@@ -21,7 +21,7 @@ function App() {
 
     try {
       const res = await fetch(
-        "http://localhost:5000/api/reviews",
+        "https://fynd-ai-backend-6gmp.onrender.com/api/reviews",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
